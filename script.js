@@ -41,7 +41,7 @@ class BackgroundAnimation {
 
   initLeafes() {
     const sakuras = new Image();
-    sakuras.src = "img/sakuras.png";
+    sakuras.src = "/sakuras.png";
 
     // Czekamy na załadowanie obrazka przed tworzeniem liści
     sakuras.onload = () => {
