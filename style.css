@@ -173,7 +173,9 @@ h2 {
 }
 
 .privacy-content section {
-  margin-bottom: 4rem;
+  /* margin-bottom: 4rem; */
+  min-height: auto;
+  padding: 0 2rem 0 2rem;
 }
 
 .privacy-content h2 {
