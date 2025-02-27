@@ -82,7 +82,8 @@ section {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-image: url("img/background.png");
+/*   background-image: url("img/background.png"); */
+   background-image: url("background.png");
 
   /* github pages */
   /* background-image: url("background.png"); */
